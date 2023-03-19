@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iamnkannan/](https://www.linkedin.com/in/iamnkannan/)
+- 👨‍💻 All of my projects are available at [https://github.com/N-Kannan](Git Hub) 
 
 - 💬 Ask me about **Data Analyst & Power Platform **
 
