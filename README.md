@@ -23,14 +23,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iamnkannan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamnkannan/" height="30" width="40" /></a>
 </p>
 
- <a href="https://www.linkedin.com/in/iamnkannan/" class="fa fa-linkedin w3-button w3-round-xlarge w3-theme-l1 w3-border link" target="_blank">Linkes IN</a>
-        <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power_BI" width="40" height="40"/> </a>
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png" alt="Power_Automate" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="excel" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power_BI" width="40" height="40"/> </a>
+<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png" alt="Power_Automate" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="excel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-kannan&show_icons=true&locale=en&layout=compact" alt="n-kannan" /></p>
