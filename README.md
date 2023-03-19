@@ -28,6 +28,13 @@
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/excel.svg" alt="excel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <P>.....................................................................................................................................................</P>
+<h2 align="left">Project Catagry;</h2>
+- Power Automate
+- Power BI
+- SQL
+- Excel
+<P>.....................................................................................................................................................</P>
+
 <h3 align="left">My Work Space:</h3>
 
 <p align="left">
