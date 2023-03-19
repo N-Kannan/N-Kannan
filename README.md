@@ -30,7 +30,7 @@
 <P>.....................................................................................................................................................</P>
 <h2 align="left">Project Catagry;</h2>
 
-- [Power Automate] (https://github.com/N-Kannan#my-work-space)
+- [Power Automate](https://github.com/N-Kannan#my-work-space)
 
 - Power BI
 
