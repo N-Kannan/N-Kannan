@@ -29,7 +29,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <P>.....................................................................................................................................................</P>
 <h2 align="left">Project Catagry;</h2>
-- Power Automate
+
+- [Power Automate] (https://github.com/N-Kannan#my-work-space)
 
 - Power BI
 
