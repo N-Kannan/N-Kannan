@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamnkannan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/LinkedIn_Logo_2013.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamnkannan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/LinkedIn_Logo_2013.svg" height="30" width="40" /></a>
 </p>
 
 <P>.....................................................................................................................................................</P>
