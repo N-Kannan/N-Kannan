@@ -31,7 +31,7 @@
 <h3 align="left">My Work Space:</h3>
 
 <p align="left">
-<a href="https://www.canva.com/templates/?query=button" target="blank"><img align="center" src="icon/Untitled design (1).png" height="30" width="40" /></a>
+<a href="https://www.canva.com/templates/?query=button" target="blank"><img align="center" src="icon/Untitled design (1).png" /></a>
 </p>
 
 
