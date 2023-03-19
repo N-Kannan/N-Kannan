@@ -21,20 +21,20 @@
 
 <P>.....................................................................................................................................................</P>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/Power-BI.svg" alt="Power_BI" width="40" height="40"/> </a>
 <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/Power-Automate.svg" alt="Power_Automate" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/excel.svg" alt="excel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/mysqlsvg.svg" alt="mysql" width="80" height="40"/> </a> </p>
+
 <P>.....................................................................................................................................................</P>
 
 <h3 align="left">Languages: </h3>
 <p align="left"> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/Power-BI.svg" alt="Power_BI" width="40" height="40"/> </a>
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/Power-Automate.svg" alt="Power_Automate" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/excel.svg" alt="excel" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/mysqlsvg.svg" alt="mysql" width="80" height="40"/> </a> </p>
+<a href="https://n-kannan.github.io/N-Kannan/#project-catagry" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/N-Kannan/N-Kannan/main/icon/sql.svg" alt="SQL" width="40" height="40"/> </a>
+</p>
+
 <P>.....................................................................................................................................................</P>
 
 <h3 align="left">Project Catagry: </h3>
