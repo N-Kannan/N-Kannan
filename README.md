@@ -32,11 +32,14 @@
 
 - [Power Automate](https://github.com/N-Kannan#my-work-space)
 
-- Power BI
+- [Power BI](https://github.com/N-Kannan#my-work-space)
 
-- SQL
+- [SQL](https://github.com/N-Kannan#my-work-space)
 
-- Excel
+- [Excel](https://github.com/N-Kannan#my-work-space)
+
+- [My Fun Projects](https://github.com/N-Kannan#my-work-space)
+
 <P>.....................................................................................................................................................</P>
 
 <h3 align="left">My Work Space:</h3>
