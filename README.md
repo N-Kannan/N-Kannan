@@ -23,6 +23,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iamnkannan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamnkannan/" height="30" width="40" /></a>
 </p>
 
+ <a href="https://www.linkedin.com/in/iamnkannan/" class="fa fa-linkedin w3-button w3-round-xlarge w3-theme-l1 w3-border link" target="_blank">Linkes IN</a>
+        <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power_BI" width="40" height="40"/> </a>
