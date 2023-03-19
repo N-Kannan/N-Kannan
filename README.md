@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kannan N</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="n-kannan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/digikannan" target="blank"><img src="https://img.shields.io/twitter/follow/digikannan?logo=twitter&style=for-the-badge" alt="digikannan" /></a> </p>
-
 - 🔭 I’m currently working on **MPHASIS**
 
 - 🌱 I’m currently learning **Data Analyst**
