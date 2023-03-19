@@ -32,7 +32,3 @@
 <h3 align="left">My Work Space:</h3>
 
 <P>.....................................................................................................................................................</P>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-kannan&show_icons=true&locale=en&layout=compact" alt="n-kannan" /></p>
-<P>.....................................................................................................................................................</P>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-kannan&" alt="n-kannan" /></p>
