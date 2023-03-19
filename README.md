@@ -54,7 +54,7 @@
 <h3 align="left">My Work Space:</h3>
 
 <p align="left">
-<a href="https://www.canva.com/templates/?query=button" target="blank"><img align="center" src="icon/Get_Repository.png" width="220" height="60" /></a>
+<a href="https://www.canva.com/templates/?query=button" target="blank"><img align="center" src="icon/Get_Repository.png" width="180" height="60" /></a>
 </p>
 
 
