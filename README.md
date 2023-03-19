@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/N-Kannan](Git Hub) 
+- 👨‍💻 All of my projects are available at [Git Hub](https://github.com/N-Kannan) 
 
 - 💬 Ask me about **Data Analyst & Power Platform **
 
-- 📫 How to reach me **iamnkannan@gmail.com**
+- 📫 How to reach me **iamnkannan+Github@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 <P>.....................................................................................................................................................</P>
