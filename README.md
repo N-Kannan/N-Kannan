@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MPHASIS**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analyst & Power Platform**
 
 - 👨‍💻 All of my projects are available at [Git Hub](https://github.com/N-Kannan) 
 
