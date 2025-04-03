@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Git Hub](https://github.com/N-Kannan) 
 
-- 👨‍💻 My power platform community profile [Power platform community kannan N](https://community.powerplatform.com/profile/?userid=8bc1caa2-ba26-ed11-9db1-0022481ec299) 
+- 👨‍💻 My Power Platform Community Profile [Power Platform Community kannan N](https://community.powerplatform.com/profile/?userid=8bc1caa2-ba26-ed11-9db1-0022481ec299) 
 
 - 💬 Ask me about **Data Analyst & Power Platform **
 
